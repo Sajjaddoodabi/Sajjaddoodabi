@@ -12,7 +12,7 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-   <a href="https://drive.google.com/file/d/1KTyto9ZxndFwFvP26GzR99swoN97y8N3/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/115635/resume" alt="resume" width="40" height="40"/> </a>
+   <a href="https://drive.google.com/file/d/1KTyto9ZxndFwFvP26GzR99swoN97y8N3/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77242529/226659386-c4759760-8219-4144-be1b-c6ac8ebbcac6.png" alt="resume" width="40" height="40"/> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
