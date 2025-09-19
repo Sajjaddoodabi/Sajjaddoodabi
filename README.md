@@ -11,13 +11,12 @@
 
 ## Resume:
 <p align="left">
-   <a href="https://drive.google.com/file/d/1KTyto9ZxndFwFvP26GzR99swoN97y8N3/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77242529/226659386-c4759760-8219-4144-be1b-c6ac8ebbcac6.png" alt="resume" width="100" height="100"/> </a> </p>
+   <a href="https://drive.google.com/file/d/1f5HhGZjpP_bLvDH7SjPFwUiSq2qIeZFB/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77242529/226659386-c4759760-8219-4144-be1b-c6ac8ebbcac6.png" alt="resume" width="100" height="100"/> </a> </p>
 
 ## Languages and Tools:
 <p align="left">
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a>
-   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
