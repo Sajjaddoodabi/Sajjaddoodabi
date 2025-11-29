@@ -11,7 +11,7 @@
 
 ## Resume:
 <p align="left">
-   <a href="https://drive.google.com/file/d/1f5HhGZjpP_bLvDH7SjPFwUiSq2qIeZFB/view?usp=share_link" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77242529/226659386-c4759760-8219-4144-be1b-c6ac8ebbcac6.png" alt="resume" width="100" height="100"/> </a> </p>
+   <a href="https://drive.google.com/file/d/1AQVnnR-zrNVt9BblN5rp1rA59xvNBX6I/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77242529/226659386-c4759760-8219-4144-be1b-c6ac8ebbcac6.png" alt="resume" width="100" height="100"/> </a> </p>
 
 ## Languages and Tools:
 <p align="left">
